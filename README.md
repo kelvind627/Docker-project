@@ -78,6 +78,13 @@
 + *Run this command to push the files to your remote repository*
 + *git push origin main*
 
+![20230627_122615](https://github.com/kelvind627/Docker-project/assets/136044631/1e46efc5-fc58-4d22-bcc9-36a663415772)
+
+![20230627_013527](https://github.com/kelvind627/Docker-project/assets/136044631/01ef0fce-7913-4dc2-bf40-1875fa9cb05e)
+
+
 10. **Verify your GitHub repository:**
 +  *Visit your GitHub repository page and confirm that your code has been successfully pushed*
+
+![20230627_123047](https://github.com/kelvind627/Docker-project/assets/136044631/4394fa6a-104f-4ea7-ad60-05f977951c5d)
 
