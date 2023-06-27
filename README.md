@@ -38,6 +38,8 @@
 + *Verify the Docker image*
 + *Ensure that your newly built image is listed by running this command (docker images)*
 
+![IMG-20230627-WA0010 (1)](https://github.com/kelvind627/Docker-project/assets/136044631/fbb6f138-cee8-4152-9814-55996b899074)
+
 6. **Access your Node.js application in a web browser:**
 + *To access this application, go to your ec2 instances*
 + *Click on the instance*
