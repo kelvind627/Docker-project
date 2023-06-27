@@ -13,6 +13,8 @@
 + *Install git using the necessary command*
 + *Run this command to see the version insttaled.(git --version)*
 
+![20230624_215452](https://github.com/kelvind627/Docker-project/assets/136044631/b021e147-a4e8-4c3b-bd82-dd0f400a7ce5)
+
 3. **Clone the necessary file from your git hub to your local terminal:**
 + *Run the ls command to view your cloned repository*
 + *Navigate into your cloned repository by running the cd command*
@@ -23,6 +25,10 @@
 + *Navigate into the created Dockerfile by running the vi command*
 + *Copy and paste the codes into the Dockerfile*
 + *Save and close the Dockerfile*
+
+![20230625_161257](https://github.com/kelvind627/Docker-project/assets/136044631/edc8b21d-92f9-465e-afb6-7d073c09cea1)
+
+![20230625_163103](https://github.com/kelvind627/Docker-project/assets/136044631/07eec036-b1dd-45f0-8b9b-7521691373b9)
 
 5. **Building your custom image:**
 + *Open your terminal or command prompt and navigate to your project directory*
