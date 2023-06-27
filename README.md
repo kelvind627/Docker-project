@@ -6,6 +6,8 @@
 + *Connect your git terminal to your ec2 instance*
 + *Using your ec2 ip address to connect with your ssh command*
 + *Install the necessary dependencies for your application*
+  
+![20230626_223655](https://github.com/kelvind627/Docker-project/assets/136044631/386eb414-8ab1-494b-99a8-6c66dad25eb8)
 
 2. **Installation of git on your ec2 instance:**
 + *Install git using the necessary command*
