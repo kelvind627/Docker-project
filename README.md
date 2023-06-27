@@ -71,4 +71,13 @@
 + *Click "Create repository" to create the new repository.*
 
 9. **Link your local repository to the remote GitHub repository:**
++ *Clone the created repository*
++ *Run the following commands to initialize your created repository, add your project files, and make an initial commit*
++ *git add .*
++ *git commit -m "initail commit"*
++ *Run this command to push the files to your remote repository*
++ *git push origin main*
+
+10. **Verify your GitHub repository:**
++  *Visit your GitHub repository page and confirm that your code has been successfully pushed*
 
