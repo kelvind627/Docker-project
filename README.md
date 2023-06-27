@@ -48,6 +48,14 @@
 + *Choose custom tcp and under the port range add your port*
 + *Click on save rules*
 
+![20230626_114435](https://github.com/kelvind627/Docker-project/assets/136044631/43ee4d31-1e6a-4972-9193-7b6f8d48d476)
+
+![20230626_114529](https://github.com/kelvind627/Docker-project/assets/136044631/f606dcdc-9381-494a-9fe0-34fbeebe029e)
+
+![20230626_114554](https://github.com/kelvind627/Docker-project/assets/136044631/c2abc2c7-e722-4403-8d61-2fea3239ca14)
+
+![20230626_114648](https://github.com/kelvind627/Docker-project/assets/136044631/ecd26bb2-2414-4c63-8539-fbf92d9ec14c)
+
 7. **Initialize Git in your project:**
 + *Run the following commands to initialize a Git repository, add your project files, and make an initial commit*
 + *git init*
